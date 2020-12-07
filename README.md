@@ -3,7 +3,7 @@ Personal dataset project for DATA 115 (WSU, Fall 2020)
 
 ## Motivation
 
-I have always shown an interest in statistics relating to sports, more specifically basketball. Growing up watching the NBA, I was always fascinated with the amount of data is collected; every second in each game has some sort of statsitic recorded and are analyzed even further through advanced statistics.
+I have always shown an interest in statistics relating to sports, more specifically basketball. Growing up watching the the professional basketball league NBA, I was always fascinated with the amount of data is collected; every second in each game has some sort of statsitic recorded and are analyzed even further through advanced statistics.
 
 The question I sought out to answer myself was: How and why are players shooting (and making) increasingly more three pointers every year in the NBA? And how does pace influence the amount of three pointers attempted and made?
 
@@ -17,6 +17,6 @@ This data which was grabbed from the basketball-reference, contains the average 
 
 This scatterplot shows the average amount of three-pointers attempted per game, by the season with each point corresponding to a specific year. The scatterplot is organized from the latest year recorded (2019-2020) to the earliest year recorded (1979-1980).
 
-Setting a threshold on the number of 3-point attempts per game, showed me which specific years had the highest frequency on shooting from deep. I learned that the recent surge of shooting the 3 pointer hasn’t always been steadily increasing; there were a certain number of years (1994-1997) that had a sudden increase in attempts and also had even more attempts than a good amount of following years. 
-
 ## Analysis
+
+Setting a threshold on the number of 3-point attempts per game, showed me which specific years had the highest frequency on shooting from deep. I learned that the recent surge of shooting the 3 pointer hasn’t always been steadily increasing; there were a certain number of years (1994-1997) that had a sudden increase in attempts and also had even more attempts than a good amount of following years. 
