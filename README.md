@@ -19,4 +19,5 @@ This scatterplot shows the average amount of three-pointers attempted per game, 
 
 ## Analysis
 
-Setting a threshold on the number of 3-point attempts per game, showed me which specific years had the highest frequency on shooting from deep. I learned that the recent surge of shooting the 3 pointer hasn’t always been steadily increasing; there were a certain number of years (1994-1997) that had a sudden increase in attempts and also had even more attempts than a good amount of following years. 
+Setting a threshold on the number of 3-point attempts per game, showed me which specific years had the highest frequency on shooting from deep. I learned that the recent surge of shooting the 3 pointer hasn’t always been steadily increasing; there were a certain number of years (1994-1997) that had a sudden increase in attempts and also had even more attempts than a good amount of following years. The reason behind the sudden jump in three point attempts, was because the NBA had moved the
+3 point line closer to the rim for a few seasons, making it easier for players to score an extra point.
